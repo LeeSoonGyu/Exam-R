@@ -1,2 +1,2 @@
 # Exam-R
-목표
+R Test
